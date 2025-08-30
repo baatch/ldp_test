@@ -1,6 +1,6 @@
 -- This file defines a sample transformation.
 -- Edit the sample below or add new transformations
--- using "+ Add" in the file browser.
+-- using "+ Add" in the file browser..
 
 CREATE MATERIALIZED VIEW `sample_zones_sample_pipeline` AS
 SELECT
